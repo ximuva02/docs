@@ -82,7 +82,10 @@
         ]
       },
       {
-        "tab": "bla"
+        "tab": "bla",
+        "pages": [
+          "haha"
+        ]
       }
     ]
   },
