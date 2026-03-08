@@ -84,7 +84,13 @@
       {
         "tab": "bla",
         "pages": [
-          "haha"
+          "haha",
+          {
+            "group": "gruppe1",
+            "pages": [
+              "datei2"
+            ]
+          }
         ]
       }
     ]
